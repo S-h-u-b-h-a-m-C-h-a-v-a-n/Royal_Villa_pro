@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace VILL_s_Managment_Rent_System
 {
-    public partial class Form1 : Form
+    public partial class FRM_Home : Form
     {
-        public Form1()
+        public FRM_Home()
         {
             InitializeComponent();
+
         }
+
     }
 }
